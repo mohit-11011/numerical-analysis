@@ -28,8 +28,3 @@ fprintf('\nthe error is %f',error)
 
 
         
-    
-    
-
-
-
